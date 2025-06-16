@@ -27,7 +27,6 @@ export default function Game() {
       description = `move to start`
     }
 
-
     if (li) {
       return (
         <li key={move}>
